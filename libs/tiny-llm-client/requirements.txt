@@ -1,0 +1,5 @@
+# Production dependencies
+httpx>=0.24.0,<1.0.0
+
+# Python version requirement
+# This package requires Python >= 3.8
