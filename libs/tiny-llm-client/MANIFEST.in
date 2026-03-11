@@ -1,5 +1,0 @@
-include README.md
-include README.TINYTASKCLIENT.md
-include LICENSE
-include requirements.txt
-recursive-include tiny_lm_client *.py

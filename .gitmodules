@@ -1,9 +1,3 @@
-# Git Submodules Configuration
-# 
-# This project uses the following submodule:
-# - libs/tiny-llm-client: https://github.com/aicorp-cn/tiny-llm-client.git
-#
-# After the remote submodule repository is created, configure it with:
-#   git submodule add https://github.com/aicorp-cn/tiny-llm-client.git libs/tiny-llm-client
-#
-# For now, tiny-llm-client is included as a regular directory.
+[submodule "libs/tiny-llm-client"]
+	path = libs/tiny-llm-client
+	url = https://github.com/aicorp-cn/tiny-lm-client.git
