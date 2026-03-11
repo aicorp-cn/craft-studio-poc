@@ -19,7 +19,7 @@
 
 ### 报告问题
 
-如果您发现了 Bug 或有功能建议，请通过 [GitHub Issues](https://github.com/aicorp-cn/craft_studio_poc/issues) 提交。
+如果您发现了 Bug 或有功能建议，请通过 [GitHub Issues](https://github.com/aicorp-cn/craft-studio-poc/issues) 提交。
 
 提交 Issue 时请包含：
 
@@ -49,11 +49,11 @@
 
 ```bash
 # 克隆您的 Fork
-git clone https://github.com/YOUR_USERNAME/craft_studio_poc.git
-cd craft_studio_poc
+git clone https://github.com/YOUR_USERNAME/craft-studio-poc.git
+cd craft-studio-poc
 
 # 添加上游仓库
-git remote add upstream https://github.com/aicorp-cn/craft_studio_poc.git
+git remote add upstream https://github.com/aicorp-cn/craft-studio-poc.git
 
 # 初始化子模块
 git submodule update --init --recursive
@@ -194,7 +194,7 @@ Closes #123
 如有任何问题，请通过以下方式联系我们：
 
 - **邮箱**: our-aicorp@hotmail.com
-- **GitHub Issues**: [提交问题](https://github.com/aicorp-cn/craft_studio_poc/issues)
+- **GitHub Issues**: [提交问题](https://github.com/aicorp-cn/craft-studio-poc/issues)
 
 ---
 

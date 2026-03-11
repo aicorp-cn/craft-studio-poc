@@ -42,8 +42,8 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/aicorp-cn/craft_studio_poc.git
-cd craft_studio_poc
+git clone https://github.com/aicorp-cn/craft-studio-poc.git
+cd craft-studio-poc
 
 # 初始化子模块
 git submodule update --init --recursive
@@ -154,8 +154,8 @@ craft_studio_poc/
 
 ```bash
 # 克隆仓库
-git clone https://github.com/aicorp-cn/craft_studio_poc.git
-cd craft_studio_poc
+git clone https://github.com/aicorp-cn/craft-studio-poc.git
+cd craft-studio-poc
 
 # 安装开发依赖
 pip install -r requirements-dev.txt
@@ -175,7 +175,7 @@ pip install -r requirements-dev.txt
 
 - **维护者**: AICorp Team
 - **邮箱**: our-aicorp@hotmail.com
-- **问题反馈**: [GitHub Issues](https://github.com/aicorp-cn/craft_studio_poc/issues)
+- **问题反馈**: [GitHub Issues](https://github.com/aicorp-cn/craft-studio-poc/issues)
 
 ## 🙏 致谢
 
